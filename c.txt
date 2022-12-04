@@ -1,1 +1,1 @@
-Recolocando o arquivo c.txt após remoção anterior, para fins de git log
+Recolocando o arquivo c.txt após remoção anterior, para fins de git log.

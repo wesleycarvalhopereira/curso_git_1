@@ -1,2 +1,3 @@
 Testando a atualização do clone.
-Olha o quanto já avançamos
+Olha o quanto já avançamos.
+Enviando a funcionalidade b.
